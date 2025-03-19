@@ -60,13 +60,13 @@ nav ul li a:hover {
 }
 
 /* Three.jsキャンバスコンテナ */
-#canvas-container {
+/* #canvas-container {
     width: 100%;
     height: 100vh;
     position: relative;
     background-color: #000;
     overflow: hidden;
-}
+} */
 
 /* メインコンテンツ */
 main {
